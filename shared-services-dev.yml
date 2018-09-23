@@ -1,0 +1,8 @@
+logging:
+  level:
+    org.springframework.web: INFO
+    org.hibernate: ERROR
+
+developer: Krishnaraj Sooji
+fromEmailId: pramaniks4u@gmail.com
+

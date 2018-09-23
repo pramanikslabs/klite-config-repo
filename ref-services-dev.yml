@@ -1,0 +1,8 @@
+developer: Krishnaraj Sooji
+
+logging:
+  level:
+    org.springframework.web: INFO
+    org.hibernate: ERROR
+
+    
